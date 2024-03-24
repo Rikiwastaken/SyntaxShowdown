@@ -6,7 +6,7 @@ Syntax Showdown: Word Justice
 
 ## Description
 
-Syntax Showodwn: Word Justice est un jeu éducatif et ludique créé dans l'optique d'aider à l'apprentissage de l'anglais.
+Syntax Showdown: Word Justice est un jeu éducatif et ludique créé dans l'optique d'aider à l'apprentissage de l'anglais.
 Suivez les aventures de Dick Shionary, apprenti avocat qui défend ses clients en relevant les erreurs d'orthographe et de grammaire des témoins.
 
 ## Mécaniques:
