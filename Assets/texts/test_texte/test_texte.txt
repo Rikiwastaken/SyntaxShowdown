@@ -1,0 +1,17 @@
+42
+#1
+I am innocent !
+#2
+I want to be the very best !
+#3
+Like no one never was !
+#4
+To catch /them/ is my real test !
+#5
+To train them is my cause ! Je veux que l'erreur soit plus /base/ pour tester les limites. 
+#6
+Et c'est en fesant cela que on peut trouver des petits bugs sympathiques qui vont faire des /sueurs/ froides aux developpeurs 
+#7
+Bien que cela semble marcher, il faut aussi regarder des cas particuliers qui /pourrait nuir/ a l'experience utilisateur. 
+#8
+Imaginons que ce soit /Alexandre qui parle et que l'erreur ce trouve sur plusieurs lignes, ca serait dommage/ non ? 

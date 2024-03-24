@@ -1,0 +1,36 @@
+#110300
+Wait, did you just say "right now" ?
+#225000
+Yes, right now.
+#310000
+But... She died a while ago, not right now.
+#425000
+Well, of course.
+#510200
+Then you should have said right away, then. Not right now !
+#642000
+Can we not focus on the smallest details ?
+#710200
+Is the time of death a small detail to you, Ecution ?
+#842000
+Damn you, Shionary !
+#933000
+May the defense and the prosecution refrain from bickering in front of the court ?
+#a10000
+Sorry.
+#b42000
+Sorry.
+#c330c2
+Please, Mister Jisto, correct your testimony.
+#d25000
+Now, for the last time, the victim's name is Vicky Tim, the girlfriend of the accused.
+#e25000
+She was hit with a round small object at the back of the head.
+#f25000
+She died immediately, right away.
+#g25000
+No other wound was found on her body.
+#h25000
+That is all.
+#i10400
+(It's cross-examinin' time !)

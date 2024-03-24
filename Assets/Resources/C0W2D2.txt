@@ -1,0 +1,8 @@
+#1410000
+Yes !
+#2410000
+Now you will see that this testimony is now complete.
+#3410000
+Whenever you complete a testimony, you unlock it as a statement.
+#4410000
+Use your newly unlocked statement on the first witness.

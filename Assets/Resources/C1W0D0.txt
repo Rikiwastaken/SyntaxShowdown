@@ -1,0 +1,96 @@
+#1590004
+[May 5, 13:55, in front of the tribunal]
+#2500000
+Come on, what is Mister Graph doing ? The trial is about to start... Better wait for him inside.
+#3790c14
+[May 5, 14:00, antechamber]
+#4700000
+(I hope he would be here. Better go meet the client.)
+#5780000
+Who might you be ? Where is Mister Graph ?
+#6700000
+Mister Graph should arrive soon. My name is Dick Shionary. I am his apprentice.
+#7780000
+His apprentice ? You look fresh out of law school !
+#8700000
+(Yeah, that is the point of being an apprentice...)
+#9700000
+Don't worry. Everything will be alright. Mister Graph should be here before long.
+#a780000
+I sure hope so...
+#b700000
+Let's go. It should start soon.
+#c780000
+What is going to happen to me ?
+#d700000
+There is no need to worry. We will do our very best to prove your innocence, Mister, huhh...
+#e780000
+Hard. Bill Hard.
+#f700000
+Right. Mister Hard.
+#g780000
+You don't even know who I am ?
+#h700000
+The clock sure is ticking, gotta go !
+#i700000
+(This is going to be a long day...)
+#j190004
+[May 5, 14:30, inside the courtroom]
+#k104000
+Still no signs of him, but he sent me a message.
+#l610000
+Hi, Dick ! It's me, Otto Graph ! Sorry, pal, but it seems I won't be able to be there for the trial. Unfortunately my cat fell in the washing machine. Don't worry I know you got this !
+#m103000
+This can't be happening...
+#n330000
+Is everything alright, Mister Shionary ?
+#o103000
+Well, your honor, it seems Mister Graph will not be able to be here. Do you think the trial could be postponed ?
+#p421000
+Do you really think your petty tricks will work ? You are only trying to buy time, you amateur !
+#q330000
+I apologize, Mister Shionary, but the trial will have to take place. There is no other way.
+#r104000
+(Damn it all, I don't even know anything about the case. I'll have to improvise.)
+#s100000
+In that case, I am ready, your honor.
+#t421000
+And so am I, your honor.
+#u330000
+Let us start. We are here to decide of the fate of Bill Hard, accused of the murder of his girlfriend Vicky Tim. Do you have anything to say for your defense, Mister Hard ?
+#v280s20
+How many times do I have to tell you ? I would never kill Vicky. I loved her.
+#w280000
+I loved her more than anything...
+#x103000
+We are here to prove that this is the truth, Mister Hard. For now, please introduce yourself.
+#y280c20
+My name is Bill Hard. I am a professional billiard player and I am innocent.
+#z280000
+We had an arguement so I left and when I came back she was...
+#A280000
+She was dead. Then I called the cops, and the detective arrested me.
+#B280000
+Wait a second, your honor. Why would Mister Hard be suspected if he is the one who discovered the body ?
+#C420000
+Don't you know what happened, Shionary ? Or maybe you have not studied the case ? Mister Hard is the only person who saw the victim alive. He left her house and returned a while later to call the police.
+#D420000
+A witness assured that no one used the victim's one and only door. No one but Mister Hard. This whole trial is pointless. There no other suspect.
+#E330000
+At any rate, I had a map of the crime scene drawn.
+#F330002
+Here it is.
+#G420001
+The red cross represents the corpse of the victim. The blue cross represents one of the witnesses, who stayed there all day.
+#H420001
+That is how we know no one entered the house between the moment when Mister Hard left and when he came back. The house to the North of the victim's is owned by another witness, Evan Quished.
+#I100001
+I see.
+#J10400
+(What kind of mess have I gotten myself into ? That is unwinable.)
+#K420000
+Well I suggest we do not waste any more time. Let's call the first witness.
+#L330000
+Are you ready, Mister Shionary ?
+#M10400
+More than ever, you honor.

@@ -1,0 +1,8 @@
+#1410000
+Ok, now we'll learn how to present a statement.
+#2410000
+When a testimony is Flawless, but not Complete, it means you will have to either prove or contradict something within the testimony.
+#3410000
+For example, try presenting the statement from the third witness to this testimony.
+#4410000
+During the testimony, click on "Statements", select the third one and click on "Present".

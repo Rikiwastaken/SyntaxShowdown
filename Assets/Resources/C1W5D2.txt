@@ -1,0 +1,88 @@
+#1240000
+Is this supposed to be some kind of sick joke ?
+#2420000
+Is this your last ditch effort to try to defend your client ? Accusing the witnesses ?
+#3333000
+Refrain from making such baseless accusations in the future, Mister Shionary.
+#4100000
+Please, let me explain what happened, then you'll be free to believe me or not.
+#5100000
+Let's start by retracing what happened.
+#6100000
+Mister Bill Hard visited Miss Vicky Tim's house. After a while, they started arguing. Both Evan Quished and Reed Ired heard them. Is that right, Mister Quished.
+#7240000
+Yeah...
+#8100000
+Then, Hard left the house. Reed Ired saw him. He then came back a while later, only to discover the body and call the police.
+#9100000
+But then, before he came back, there is the broken window.
+#a101000
+That means someone broke that window. Someone that is most likely not Bill Hard.
+#b420000
+This is a cute struggle, Shionary, but wouldn't Reed Ired have seen that suposed third party ?
+#c100002
+Let me show you the map we were showed earlier.
+#d100003
+Now, what if we added the line of sight of Mister Ired.
+#e102001
+As you can see, the window next to the victim is hidden from Mister Ired's line of sight. This same window which was broken from outside, as said by Mister Hissman.
+#f102001
+However, there is one person who should have seen that person coming. He's the owner of the house North of Miss Tim's, Evan Quished.
+#g102001
+Furthermore, he should have heard the broken glass, but said nothing about it.
+#h333001
+That is interesting, so you thing Mister Quished waitted for Bill Hard to go to burst in through the window to kill her ?
+#i420001
+This doesn't make any sense, she would have screamed or at least said something, and Mister Ired would have heard her.
+#j100001
+I never said anything about him entering through the window. I believe he threw something at the victim's head, smashing both her window and her head.
+#k240000
+This is ridiculous. Why would I do that ?
+#l100000
+Bill Hard has been your enemy for years, you merely found a way to end his career and his life.
+#m240000
+Preposterous. Didn't the cop said that the murder weapon was a billiard ball from inside Hard's house ?
+#n100000
+He found it there, but that doesn't mean it is Hard's. Weren't you cleaning your own balls just before the murder.
+#o240000
+That is stupid ! You really think a man could throw a stupid black ball through a window and kill someone ?
+#p420000
+Damn it, shut up !
+#q100000
+Did you just say a black ball ?
+#r100000
+I believe the color of the ball has not been debated during the trial. Your honor, can you us the ball found near the body.
+#s333000
+There is no need, Mister Shionary. The ball is indeed black.
+#t100000
+Your honor, the only way Evan Quished could have known the color of the ball, is if he had thrown him himself !
+#u420000
+This is nothing more than a coincidence.
+#v100000
+I don't think so, Mister Ecution. As for me, I have nothing else to say. Your honor, say your verdict.
+#w333000
+I declare Mister Bill Hard not guilty !
+#x790000
+[May 5, 17:34, Antechamber]
+#y780s10
+I can't believe it, Mister Graph. You really did it !
+#z700000
+Trust me I can't believe it myself. How lucky can you be to have the culprit as a witness.
+#A780000
+Quished... I knew he was a sore loser, but to do such a thing. And Vicky...
+#B700000
+Sorry about your loss.
+#C780000
+Thanks, but now is no time to be mopping around.
+#D780000
+During our arguement, I told Vicky I was thinking about stopping my career to spend more time with her.
+#E780000
+She told me I should never give up my dream, that I should persevere.
+#F780000
+I'll train even harder. I'll keep training until I am the very best, like no one ever was. I'll do it for her.
+#G700000
+You do that. I'll be cheering for you.
+#H780000
+I know you will. For now, let me pay you a drink. After all, without you I would be behind bars !
+#I700000
+I'm right behind you !

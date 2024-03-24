@@ -1,0 +1,39 @@
+Témoignages
+
+
+abdef
+#c
+So you want me to testify, is that right ?
+#2
+Well, there is nothing to tell you.
+#3
+I mean, did you see what happened ?
+#4
+He done it, that is all there is !
+
+a=SpeakerID
+b=backgroundID
+c=numéro de fenêtre de dialogue.
+d: 0=pas fini 1=fini 2=il faut comparer avec qq chose
+e=0 si d!=2, sinon =SpeakerID du témoignage à utiliser sur la case
+f=0 si d!=2, sinon =fenetre sur laquelle il faut utiliser le témoignage
+
+
+Dialogues
+
+#abcdefg
+Texte paragraphe
+#2134
+Let's get this party started
+#3134
+I'm really feeling it
+#4134
+Let's keep dialoguin
+
+a=numéro de fenêtre de dialogue.
+b=backgroundID
+c=SpeakerID
+d=SpeakerState (0:Idle, 1:Accuse, 2:Determined, 3:Surprised, 4:thinking)
+e=music (c: Calm, d: Decide, g: Goofy, f: Finale, s: Sentimental, i: Intensity)
+f=style de changement de musique (0:si e==0, 1: On Play la musique, 2:On la met en fondu)
+g=image à afficher (0: Rien, 1 garder l'image affichée, sinon l'ID de l'image)

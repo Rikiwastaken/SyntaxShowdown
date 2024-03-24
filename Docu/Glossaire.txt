@@ -1,0 +1,71 @@
+*x= le SpeakerID est x
+
+#Persos récurents:
+- Lawyer (Main Character): Dick Shionary *0
+- Lawyer (Mentor): Otto Graph *1
+- Prosecutor: Prost Ecution *2
+- Judge: Hillary Vocab *3
+- NA *9
+
+#Case 0
+-Witness 1 *4: 
+-Witness 2 *5: 
+-Witness 3 *6: 
+-Witness 4 *7: 
+
+#Case 1
+-Witness 1 *4: Evan Quished (can be completed alone)
+-Witness 2 *5: Li Jisto (requires Paul Hissman)
+-Witness 3 *6: Paul Hissman (requires Evan Quished)
+-Witness 4 *7: Reed Ired (can be completed alone)
+-Accused *8: Bill Hard
+
+#Case 2
+-Witness 1 *4: Richard Gold
+-Witness 2 *5: Lou Ker
+-Witness 3 *6: Tess La
+-Witness 4 *7: Paul Hissman
+-Accused *8: Richard Gold
+
+#Case 3
+-Witness 1 *4: 
+-Witness 2 *5: 
+-Witness 3 *6: 
+-Witness 4 *7:  
+
+#Case 4
+-Witness 1 *4: 
+-Witness 2 *5: 
+-Witness 3 *6: 
+-Witness 4 *7: 
+
+#Backgrounds
+- Lawyer : 1
+- Witness : 2
+- Judge : 3
+- Prosecutor : 4
+- Outside : 5
+- Phone : 6
+- Antechamber : 7
+
+#Animations
+-Idle: 0
+-Accuse: 1
+-Determined: 2
+-Surprised: 3
+-Thinking: 4
+
+#Images
+-Rien: 0
+-Garder l'image affichée: 1
+-Carte de base de l'affaire 1: 2
+-Carte de base de l'affaire complétée 1: 3
+-Ecran noir pour fondu: 4
+
+#Musiques
+- c = Calm: Mind-Bender-2
+- d = Decide: Ariadne-Battle
+- g = Goofy: guutara
+- f = Finale: Never-Surrender
+- s = Sentimental: sunbeams
+- i = Intensity: Intrusion

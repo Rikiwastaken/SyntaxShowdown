@@ -1,0 +1,42 @@
+#1330c200
+Please, sir, introduce yourself and tell us what you saw.
+#22700000
+My name is Reed Ired. I saw the front door.
+#33300000
+Is that it ?
+#42700000
+Yes.
+#53300000
+Well, have a nice day then.
+#62700000
+Thank you, you too.
+#71000000
+Hold it a second !
+#83300000
+What is it, Mister Shionary ?
+#91000000
+Please, Mister Ired, sir, I want a proper testimony !
+#a1000000
+I mean, please tell us what you saw in more details
+#b2700000
+Well, I suppose I can do that. My wife is out for groceries anyway.
+#c2700000
+I have to wait for her anyway, so I have really nothing better to do.
+#d2700000
+She told me she would be baking a cake, but she didn't have any icing.
+#e2700000
+So as she knew I was coming here for the trial, she thought that it would be a good occasion to buy some.
+#f4220000
+Will you get to the point already !
+#g2700000
+Sorry, I get easily sidetracked.
+#h2700000
+Where was I again ? Oh, That's it ! I remember !
+#i2700000
+I stayed outside all day. I saw everything.
+#j2700000
+My house is right in front of Miss Tim's, so there was not something I could miss.
+#k2700000
+Mister Hard is the only person who used Miss Tim's front door. I am sure of it.
+#l2700000
+I saw him leave the house before returning a while later. That is when he called the police.
