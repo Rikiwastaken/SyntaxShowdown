@@ -2,20 +2,8 @@
 
 Syntax Showdown: Word Justice
 
-Feur
+![](Assets/Sprites/titre.png)
 
-Idée de noms:
+Unity Version: 2023.2.9f1
 
-Otto Graph
-Vocab Hillary (vocabulary)
-Gramm Her (grammar)
-Dick Tionary (dictionnary)
-Missy Nformation (misinformation)
-Al Pen (penal)
-Ance Evid (evidence)
-Keyth Torian (historian)
-Penny Tensiary (penitentiary)
-Evy Dense (evidence)
-Harry Clusion (reculsion)
-Thor Inspect (inspector)
-Prost Ecution (prosecution)
+
