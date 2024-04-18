@@ -1,6 +1,6 @@
 #110200
 Excuse me, but I cannot let that pass.
-#225000
+#225300
 Excuse ME ?
 #310200
 You said: "a round small object".
@@ -14,7 +14,7 @@ It goes against the order of the adjectives !
 !
 #833300
 !
-#933000
+#933400
 Elaborate, Mister Shionary.
 #a10000
 Well, there is a not so well-know grammar rule that dictates the order of adjectives.
@@ -30,11 +30,11 @@ So that means...
 That means Mister Jisto should have said "a small round object" !
 #g33000
 Interesting. Mister Jisto, please say "a small round object" in your testimony.
-#h250c2
+#h254c2
 Her name was Vicky Tim, and the accused was her boyfriend.
-#i25000
+#i25400
 She was hit with a small round but hard object at the back of the head.
-#j25000
+#j25600
 The rest of her body was unharmed.
 #k25000
 I do not have anything else to say, not that I want to.

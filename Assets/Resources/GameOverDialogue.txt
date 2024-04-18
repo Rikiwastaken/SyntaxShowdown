@@ -1,10 +1,10 @@
 #11030
 Damn, they are not listening to me anymore...
-#24320
+#24210
 I think we have heard enough, your honor.
 #33340
 I think the verdict is quite clear.
 #43310
 The accused is guilty !
-#53310
+#579000
 Game Over...

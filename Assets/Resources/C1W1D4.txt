@@ -1,6 +1,6 @@
-#110000
+#110100
 You made a common spelling mistake !
-#224000
+#224300
 What do you mean a spelling mistake ? We are talking.
 #310200
 You said "hed" instead of "head" !
@@ -8,25 +8,25 @@ You said "hed" instead of "head" !
 How can you make such a stupid spelling mistake ! Please refrain from being wrong in the future !
 #510000
 Well said, your honor !
-#642200
+#642300
 Your honor, please don't play along...
 #7330c20
 Correct your testimony, Mister Quished.
-#824000
+#824100
 Now you are really getting on my nerves, you clown !
-#924000
+#924100
 You want to hear the whole story, is that right ?
-#a24000
+#a24100
 Well, let me tell you for the last time you poor excuse for a lawyer
-#b24000
+#b24100
 He did it, alright ?
-#c24000
-I was cleaning my billard balls, making them shine like never before.
-#d24000
+#c24100
+I was cleaning my billiard balls, making them shine like never before.
+#d24100
 And they interrupted me, with their endless bickering. Can't they leave a man to his balls ?
-#e24000
+#e24100
 I did not even take the time to put the balls back in their box, I ran to their house.
-#f24000
+#f24100
 Luckily for them, the ruckus stopped before I reached their house. 
 #g10400
 (His testimony is spotless. And yet I feel like something is wrong with it.)

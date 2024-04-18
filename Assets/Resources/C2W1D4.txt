@@ -1,0 +1,52 @@
+#1283000
+I knew it ! Good old Boris, he always has my back.
+#2107000
+It is obvious that my client is innocent, your honor. After all, the one who killed Larry Burg must have been the one who fought with him.
+#3426000
+I object, your honor !
+#4333000
+What is it, Mister Ecution ?
+#5422000
+This does not prove anything. Merely that the victim fought someone.
+#6102000
+Yes, and that someone has to be the murderer.
+#7420000
+You really are amateurish, Dick Shionary !
+#8421000
+What I am saying is that there is no proof that this someone and Mister Gold are not the same person.
+#9334000
+I guess you are right, Mister Ecution.
+#a420000
+When you take into consideration that Mister Gold had a motive and could have taken Mister Burg by surprise, everything comes together.
+#b104000
+(Damn it, he is good. I am losing ground.)
+#c102000
+Did you take a good look at him ? Do you really think this weak man could have fought someone when he just woke up.
+#d288000
+Well, I would not have said it that way, Dichard, but sadly I must admit that I am not the fittest man...
+#e421000
+That is not all. If there was another person inside the appartment, Mister Gold woud have seen them using the door or at least leaving the appartment.
+#f288000
+No, that is not possible. Every door and window was locked except the one which was forced by Mister Burg.
+#g104000
+(Only one window ?)
+#h100000
+Your honor, I ask to hear the testimony one last time before hearing another witness.
+#i100000
+You cannot decide of the accused's culpability without hearing the other witnesses.
+#j330c20
+I agree, Mister Shionary. Start over, Mister Gold.
+#k280000
+I was in Morpheus' arms, sleeping in my room, on the third floor of my triplex.
+#l280000
+I woke up when I heard people fighting in the living room.
+#m280000
+When I walked down the stairs, still groggy, and I found a body on the ground. There was no one else to be seen.
+#n280000
+And then, as I was calling the police, I saw a bright flash from the window.
+#o280000
+While waiting for the police, I checked the door and the windows. They were all locked tight except for one.
+#p280000
+Believe me or not, but when the police arrived, they cuffed me ! I could not have resisted, even if I wanted to.
+#q104000
+(I don't see how Gold could have fought anyone. That should help me with another witness.)

@@ -1,24 +1,26 @@
-#11000000
+#11070000
 Wait, Mister Hissman. What did you say about the window ?
 #22600000
 Well, I found broken glass in the house. I thought it might be important, maybe even the murder weapon.
-#32600000
+#32640000
 But upon closer inspection, it was obvious that the victim had not been cut.
-#41000000
+#41020000
 No, that's not it.
-#54220000
+#54240000
 What are you trying to say ?
 #61000000
 Well, according to Mister Reed's testimony, the glass was broken after Mister Hard left the house.
-#72600000
+#72640000
 So you are telling me that the window was broken after Bill Hard left ?
-#82600000
+#82610000
 That changes everything. Actually, it reminds me of a peculiar detail.
-#92600000
+#92610000
 The hole in the window was the size of a small object, so I looked for it outside.
-#a2600000
+#a2640000
 However, I never found it. I noticed something else. There was no broken glass outside.
 #b2600000
 Everything was inside the house. I don't know what to make of it.
-#c260c200
+#c265c200
 Good thing that is your job and not mine, Mister Lawyer !
+#d104000
+(A small object and no broken glass outside... I should be able to do something with that.)

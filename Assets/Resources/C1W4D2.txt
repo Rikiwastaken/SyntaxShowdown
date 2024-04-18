@@ -1,18 +1,18 @@
-#11000000
+#11070000
 Excuse me, sir, but shouldn't you have said "anything to miss", rather than "something to miss" ?
-#22700000
+#22730000
 What a sharp young man you are. You remind me of my son. You know...
 #34220000
-Please, correct your tesimony.
+Please, correct your testimony.
 #42700000
 Very well.
 #51000000
 So, you stayed there all afternoon ?
-#6270c200
+#6271c200
 Of course, you are asbolutely right.
-#72700000
+#72710000
 So. As I said, I stayed outside all day. I saw everything.
-#82700000
+#82710000
 My house is right in front of Miss Tim's, I did not miss anything.
 #92700000
 Mister Hard is the only person who used Miss Tim's front door. No one else.

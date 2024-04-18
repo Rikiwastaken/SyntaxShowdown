@@ -1,0 +1,102 @@
+#1260000
+How does that make any sense ?
+#2421000
+That is nothing more than a baseless accusation !
+#3333000
+How could Tess La be the killer ? She took a picture of Gold murdering the victim ?
+#4100000
+Let me explain, your honor.
+#5100000
+I will start by retracing when happened.
+#6100ca0
+So, during the night, Larry Burg climbed up the facade of the building, forced the window, and came in through it.
+#7102000
+At that point, there was a fight. Both Mister Gold and Mister Neigh's testimonies agree on this fight.
+#8104000
+The real question is: who fought Mister Larry Burg.
+#9421000
+This is amusing, Shionary, but what proves that it was not Mister Gold who killed Burg, and lied to our faces.
+#a104000
+Tell me, Ecution. If you were confronted with a burglar, what would be your first reaction ?
+#b104000
+Mine would be calling for help, and I do not remember Mister Neigh telling us he heard that.
+#c101000
+Now, there is one person who openly lied to us. Although she tried to pretend like it was nothing.
+#d101000
+Tess La hid the picture from the court, and even from you, Ecution. Why would that be ?
+#e104000
+It was quite an important piece of evidence, but it showed us something Tess La did not want us to see.
+#f334000
+And what would that be ?
+#g424410
+Could it be the blood ?
+#h100000
+Precisely. The blood on the picture is the explanation for why Hissman found blood on the oustide of the window.
+#i100000
+Someone used that window to leave the appartment after killing Burg, someone who had an aliby for being there.
+#j100000
+That person even took the time to take a picture of Gold to make us believe that he was the killer. She must have heard him run down the stairs when she was leaving.
+#k100000
+However she missed one thing, the bloodstain she left behind as she jumped back on her electric pole. Only one person could have done all that.
+#l101000
+And that person is Tess La !
+#m268000
+You... You...
+#n261000
+YOU LAWYER !
+#o102000
+You did it, didn't you ? Miss Tess La ?
+#p260000
+Of course not. I would never ! You don't have any proof. This is all stupid !
+#q101000
+Then answer me this: What kind on electrician would climb up an electric pole to fix some cables under heavy rain !
+#r268000
+I...
+#s101000
+You had no reason to be here, so why were you ?
+#t261000
+I was there to break into Gold's appartment !
+#u268s20
+I did it, ok ?
+#v268000
+You win.
+#w268000
+When I saw that amateur Burg, I just snapped. I had planned this operation for months, and he wanted to steal it from me.
+#x268000
+You got my confession. Are you happy now ?
+#y100000
+No I am not. But now at least an innocent man will not be convicted in your place.
+#z100000
+Please, your honor.
+#A331000
+I declare Tess La guilty of the murder of Larry Burg.
+#B330000
+And of course, I declare Richard Gold innocent.
+#C790c10
+[May 9, 17:24, antechamber]
+#D783000
+Dichard, my boy, you really did it !
+#E705000
+Well, I told you I would, didn't I ?
+#F783000
+I roam free thanks to your selfless effort.
+#G700000
+Still, it was close. If she had not confessed, I do not know how it would have ended.
+#H705000
+I was lucky in the end.
+#I720000
+No, it was not luck.
+#J700000
+Ecution ? What are you doing here ?
+#K720000
+I came to congratulate you. This time, you beat me for real.
+#L720000
+You made me realize that in my endeavor to punish criminals, I should aim for justice.
+#M720000
+I was trying so hard to put criminals behind bars that I almost convicted innocents.
+#N720000
+Thank you for stopping me. I look forward to working with you, Dick.
+#O700000
+Likewise, Prost.
+#P790000
+Thank you for Playing.

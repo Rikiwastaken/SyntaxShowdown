@@ -1,4 +1,4 @@
-#1590c14
+#1590c10
 [May 9, 13:43, in front of the tribunal]
 #2500000
 So, will Mr Graph be there today ?
@@ -6,15 +6,15 @@ So, will Mr Graph be there today ?
 Who are your talking to, Shionary ? You imaginary boss ?
 #4500000
 Don't you have some innocent to persecute ? Besides he will be there today. I am sure of it.
-#5520000
+#5526000
 I hope so. Today's case is unwinnable. I almost feel sorry for you.
-#6500000
+#6502000
 We will see about that.
-#7790c14
+#7790000
 [May 9, 13:59, antechamber]
 #8700000
 Hmm, Richard Gold ?
-#9780000
+#9781000
 That will be Sir Richard Reginald Gold for you, child.
 #a700000
 Right.
@@ -22,49 +22,49 @@ Right.
 Anyway, my name is Dick Shionary. I am the apprentice of Mister Graph.
 #c780000
 Dick, the diminutive of Dichard, a rather precious and unfathomable name. Pleasure to make your aquaintance Dichard.
-#d700000
+#d705000
 The pleasure is all mine, sir. But my name is Dick.
-#e780000
+#e788000
 At any rate, would you happen to know the whereabouts of my old friend Octavius ?
 #f700000
 Mister Graph ? Well he should be there any minute now.
 #g780000
-Marvellous. I cannot wait for him to prove my innocence in the treachery.
+Marvelous. I cannot wait for him to prove my innocence in the treachery.
 #h700000
 We will do our best, sir. Now, let's go. It is time.
 #i780000
 My future rests on your famelic shoulders, Dichard.
-#j190004
+#j190000
 [May 9, 14:30, inside the courtroom]
 #k330000
 Mister Shionary, any news of Mister Graph ?
 #l100000
 Let me check my phone, your honor.
-#m610000
+#m515000
 What's up, Dick. Sorry, but you'll have to manage on your own today again (sorry). There is a countrywide blackout, so I will not be able to come. Good luck.
-#n100000
+#n103000
 (How can he try something that big...)
-#o100000
+#o105000
 Well, your honor, it seems something came up. Mister Graph will not be present.
-#p420000
+#p422000
 I would bail too if I were him. This client is undefendable, Shionary !
-#q330000
+#q336000
 Well, if everyone is present, let us start.
 #r330000
 We are here to decide the fate of Richard Gold, accused of the murder of Larry Burg. Do you have anything to say for your defense, Mister Gold ?
-#s280000
+#s288000
 This is all preposterous ! Even if that man had broken into my haven, into my sanctum, into my cradle, I would never have laid a hand on him !
-#t100000
+#t103000
 What do you mean "broken into my haven" ?
-#u280000
+#u281000
 That man, Larry Burg, was nothing more than a burglar, a petty thief ! He broke in through my window to steal my belongings.
 #v420000
-The body of the victim was find inside Gold's...
-#w280000
+The body of the victim was found inside Gold's...
+#w281000
 That is Mister Gold, young man !
-#x420000
+#x426000
 It was found inside Mister Gold's living room. Every door was locked and a witness saw everything from the outside.
-#y420000
-This case if already over. There is litteraly no other suspect.
-#z100000
+#y421000
+This case if already over. There is literaly no other suspect.
+#z102000
 Hold your horses, Ecution. We will not decide anything before hearing the witnesses. Your honor, if you may...

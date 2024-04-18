@@ -6,11 +6,11 @@ I am Evan Quished, professional billiard player. I am the neighbor of the victim
 Would you mind telling us what is your relationship with the accused ?
 #4240000
 Well, yes. He has been my rival for years. I have always known him to be quite passionate, but for him to do something so cruel...
-#5240000
+#5244000
 I was home when the murder took place. To say the truth, when I heard them, I knew he would eventually do something.
 #6102000
-And what exactly did you witness, if you house is behind the witness' house.
-#7240000
+And what exactly did you witness, if your house is behind the witness' house.
+#7243000
 Oh, so that is when I say my testimony ?
 #8240000
 Well, there is not much to tell you.

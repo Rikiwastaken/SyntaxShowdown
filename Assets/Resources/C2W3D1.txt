@@ -1,0 +1,28 @@
+#1330000
+Would you kindly introduce yourself ?
+#2260000
+My name is Tess La. I am an electrician.
+#3330000
+Miss La, what exactly did you witness.
+#4262000
+Well, I saw everything, the whole murder.
+#5107000
+That doesn't make any sense, how would you be able to witness it ? Mister Gold's appartment is nowhere near the first floor.
+#6264000
+I was repairing an electric pole when the murder happened. The pole was close enough to Mister Gold's appartment to allow me to witness everything.
+#7426000
+How is that, Shionary ? Shaking in your boots ?
+#8105c20
+(I think I am. At least a little.)
+#9100000
+Miss La, could you tell us what you saw in a more detailed way ? 
+#a260000
+I was up on the electric pole, repairing some cables, when I noticed something strange.
+#b260000
+There was an man breaking into an appartment through a window.
+#c260000
+I was a bit puzzled at first. So, I just watched.
+#d260000
+Now that I think about it, I should have called the police.
+#e260000
+But you know, I was too focused on the action.

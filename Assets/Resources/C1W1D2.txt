@@ -1,16 +1,16 @@
-#1102000 
+#1101000 
 Hold it ! What did you just say ?
 #2333000
 Mister Shionary, is something wrong with the witness' account ?
-#3102000
+#3107000
 Yes, your honor. There is something very wrong with it.
-#4422000
+#4421000
 Objection, your honor! Do not listen to this amateur. He is trying to confuse you !
-#5330000
+#5331000
 Objection overruled. Please, keep going Mister Shionary.
 #6100000
 Right. Please, Mister Quished, repeat what you told us.
-#7240000
+#7243000
 Huh...
 #8240000
 He done it, that is all there is.
@@ -34,7 +34,7 @@ Of course I am. I cannot allow mistakes in testimonies.
 We are listening to you, Mister Quished.
 #i240c20
 Fine, I'll start over.
-#j240000
+#j244000
 Around 3PM, I heard screaming, can you believe that ?
 #k240000
 It was him ! Bill Hard and the victim were have the most violent argument I had ever heard !
@@ -42,9 +42,9 @@ It was him ! Bill Hard and the victim were have the most violent argument I had 
 I was so surprised it made me stop what I was doing.
 #m240000
 I had to check it out. I was afraid of what he could have done.
-#n100000
+#n104000
 (It seems he made another mistake !)
-#o330000
+#o334000
 Mister Shionary, continue your cross-examination, would you ?
 #p100000
 With pleasure, your honor.

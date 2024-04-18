@@ -1,0 +1,24 @@
+#1330c20
+Please, detective, introduce yourself.
+#2270000
+Gladly, your honor. My name is Paul Hissman. I am the detective in charge of this case.
+#3105000
+Hello, Mister Hissman, it has been a while.
+#4275000
+It has only been a week, Mister Shionary. You really are unlucky with your clients.
+#5105000
+I would be unlucky if my clients were guilty. However that does not seem to be the case.
+#6421000
+The innocence of your client is still to be proved, Shionary.
+#7102000
+So is his culpability!
+#8330000
+Mister Hissman, tell us the result of your investigation.
+#9270000
+Very well. It look like the victim was attempting to burglarize Mister Gold's home.
+#a270000
+He climbed the facade to reach Mister Gold's window.
+#b270000
+The window was locked, but he forced it to get inside.
+#c270000
+He was murdered inside the appartment. 

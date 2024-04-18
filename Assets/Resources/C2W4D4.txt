@@ -1,0 +1,50 @@
+#1104000
+I think you are right, Mister Hissman. After all, Boris Neigh testified that he heard two people fighting.
+#2270000
+Right.
+#3422000
+So let me reformulate.
+#4420000
+You actually mean that someone fought the victim, inside the accused's very own home ?
+#5424000
+And to that, you add the fact that every door was locked ?
+#6421000
+Your honor, let us put an end to this charade. Who else but Gold could have killed Mister Burg ?
+#7274000
+I wouldn't be so sure.
+#8270000
+When I arrived, there was no blood on Mister Gold's clothes.
+#9422000
+This proves nothing. He merely changed clothes !
+#a101000
+It is your point that proves nothing, Ecution !
+#b102000
+You have no concrete proof that Mister Gold fought Larry Burg !
+#c100000
+Your honor, I think we should let Mister Hissman reformulate one last time before hearing another witness.
+#d330c20
+Agreed. We are listening to you, Mister Hissman.
+#e270000
+Thank you, your honor. Also I just remembered a small detail concerning the window.
+#f270000
+It looks like the victim was attempting to burglarize Mister Gold's home.
+#g270000
+He climbed the facade to reach his window.
+#h270000
+The window was locked, but he forced it to get inside.
+#i270000
+He was murdered inside the appartment. 
+#j270000
+There was blood on the floor, although that was to be expected.
+#k270000
+Seeing how the furniture was turned upside down, there was a fight between the victim and his killer.
+#l270000
+I also noticed that the window was closed when I arrived.
+#m270000
+I examined it. The lock had been forced, and there was a fresh bloodstain on the outer side of the window frame.
+#n270000
+However, as it started raining shortly after I arrived, it was washed away before I could take a sample.
+#o270000
+Also, there was no bloodstain on Mister Gold's clothes.
+#p104000
+(I don't think I can do anything else with this testimony.)

@@ -1,0 +1,40 @@
+#1101000
+Stop it right there, Witness !
+#2422000
+What is it, Shionary ? You wish to protect your client by preventing him from confessing ?
+#3280000
+No need to interrupt me, Dichard. I would never confess to a crime I did not commit.
+#4333000
+Dichard ?
+#5100000
+That is not important right now, your honor.
+#6104000
+Mister Gold, you just said "in Morpheus's arms", didn't you ?
+#7280000
+I supposed I did yes. 
+#8280000
+I get it. This language is too sophisticated for your young mind, Dichard.
+#9102000
+No.
+#a100000
+You should have said "in Morpheus' arms", as "Morpheus" ends with an "s".
+#b283000
+Well, that is true.
+#c332000
+Scandalous ! He must be guilty for sure !
+#d422000
+You are right, your honor.
+#e105000
+I would not go to such lengths. It would be better to let the witness correct his testimony.
+#f330c20
+I'll allow it. Mister Gold, your testimony, if you would.
+#g280000
+As I said, I was in Morpheus' arms, sleeping in my room, on the third floor of my triplex.
+#h280000
+And yet, I was awoken by some noise coming from the living room.
+#i280000
+When I walked down the stairs, I found a body on the ground.
+#j280000
+And then, as I was calling the police, I saw a bright flash from the window.
+#k280000
+Believe me or don't, but when the police arrived, they cuffed me !

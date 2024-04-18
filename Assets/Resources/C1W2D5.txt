@@ -1,6 +1,6 @@
 #110400
 Wait a second, Mister Jisto.
-#225000
+#225300
 Yes ?
 #310000
 You said that the victim was hit with a "small round but hard object".
@@ -8,15 +8,15 @@ You said that the victim was hit with a "small round but hard object".
 Correct. That is most likely the cause of death.
 #510400
 Do you think a billiard ball might fit the description.
-#625000
+#625400
 Yes. Actually, now that I think about it. I couldn't find something more fitting.
 #710400
 Mister Hissman said in his testimony that he found a billiard ball next to the body, a very shiny one.
-#842000
+#842600
 I see where you are going, Shionary. But a trophy was also found next to the body. This proves nothing.
-#925000
+#925600
 No, the trophy is not the murder weapon. The wound does not fit. I do not see anything else that the billiard ball.
-#a42200
+#a42100
 So what ? The accused is a billiard champion. Of course he would have billiard balls in this house. This is pointless.
-#b10000
+#b107c20
 We will see about that. Now, I would like to question another witness.

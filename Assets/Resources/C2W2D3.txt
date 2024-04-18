@@ -1,0 +1,30 @@
+#1104000
+Wait, Mister Neigh.
+#2256000
+Just call me Boris, pal.
+#3105000
+Right, Mister Boris. What did you say about your wall ?
+#4250000
+I said "I heard some noise at the other side of my wall."
+#5102000
+You mean "from", don't you ?
+#6253000
+What ?
+#7101000
+You mean you heard some noise "from" the other side of your wall. Not at the other side.
+#8253000
+Yes, I suppose, but what does it change ?
+#9105c20
+Nothing, you can keep going.
+#a250000
+Yes. It was late at night.
+#b250000
+I was busy watching my favourite team on TV.
+#c250000
+There called the Bald Eagles.
+#d250000
+I was so absorbed into the game ! There was no way I would have missed it.
+#e251000
+And then just when they were about to score, I heard some noise from the other side of my wall.
+#f250000
+It was like two people were arguing.

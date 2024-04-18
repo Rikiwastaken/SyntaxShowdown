@@ -1,12 +1,13 @@
-#14200000
+Ligne pour verifier qqc
+#14260000
 That is enough, your honor. I think we have heard plenty. Let's hear the verdict already.
-#21000000
+#21010000
 Wait, Ecution. I believe there is still something we must talk about.
 #34200000
 What is it ? No witness saw any other culprit other than Bill Hard. Give it up !
 #41020000
 You know what ? Maybe you're right. I'm ready to give up, but only on one condition.
-#54200000
+#54240000
 I'm listening.
 #61040000
 Explain one thing, and I will leave.
@@ -20,7 +21,7 @@ What ?
 Please, explain Mister Shionary.
 #b1000000
 Gladly, your honor. Mister Ired heard broken glass AFTER Bill Hard left.
-#c1000000
+#c1070000
 This can mean two things. Either the victim was still alive, or someone else was in the house.
 #d1010000
 Either way, it means that it's more than likely that Bill Hard is innocent !
