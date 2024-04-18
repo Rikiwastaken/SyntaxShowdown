@@ -22,7 +22,7 @@
 
 #Case 2
 -Witness 1 *4: Richard Gold
--Witness 2 *5: Lou Ker
+-Witness 2 *5: Boris Neigh
 -Witness 3 *6: Tess La
 -Witness 4 *7: Paul Hissman
 -Accused *8: Richard Gold
@@ -54,6 +54,10 @@
 -Determined: 2
 -Surprised: 3
 -Thinking: 4
+-Laughing: 5
+-Idea: 6
+-ShowEvidence: 7
+-Despair: 8
 
 #Images
 -Rien: 0
@@ -61,11 +65,14 @@
 -Carte de base de l'affaire 1: 2
 -Carte de base de l'affaire complétée 1: 3
 -Ecran noir pour fondu: 4
+-Photo prise par Tess La: 5
 
 #Musiques
 - c = Calm: Mind-Bender-2
-- d = Decide: Ariadne-Battle
 - g = Goofy: guutara
-- f = Finale: Never-Surrender
 - s = Sentimental: sunbeams
 - i = Intensity: Intrusion
+- 2 = Tier1: Encounter
+- 3 = Tier2: Battle-Everlasting
+- 4 = Tier3: Never-Surrender
+- 5 = Tier4: Ariadne-Battle
