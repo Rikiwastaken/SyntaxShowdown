@@ -1,0 +1,290 @@
+fileFormatVersion: 2
+guid: 8403609283f0458478a9c19473ffd77a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -105686263305267034
+    second: sacha2_0
+  - first:
+      213: -6890691626722707653
+    second: sacha2_1
+  - first:
+      213: -6819622139093557455
+    second: sacha2_2
+  - first:
+      213: -6127423815824181766
+    second: sacha2_3
+  - first:
+      213: 7932387049682353263
+    second: sacha2_4
+  - first:
+      213: -1176854001476380138
+    second: sacha2_5
+  - first:
+      213: 8123231367505259240
+    second: sacha2_6
+  - first:
+      213: 5863371042033613988
+    second: sacha2_7
+  - first:
+      213: 2834332380321042406
+    second: sacha2_8
+  - first:
+      213: 8866222168654784897
+    second: sacha2_9
+  - first:
+      213: 9006321221464984318
+    second: sacha2_10
+  - first:
+      213: 2369441724380829069
+    second: sacha2_11
+  - first:
+      213: 7703327077721404499
+    second: sacha2_12
+  - first:
+      213: 4985149855084161649
+    second: sacha2_13
+  - first:
+      213: -5268702710480940677
+    second: sacha2_14
+  - first:
+      213: 6758306951942595839
+    second: sacha2_15
+  - first:
+      213: -5123078859500325793
+    second: sacha2_16
+  - first:
+      213: 8717934100968249984
+    second: sacha2_17
+  - first:
+      213: -8637272712309104676
+    second: sacha2_18
+  - first:
+      213: -1236719066886775268
+    second: sacha2_19
+  - first:
+      213: 8622949113686364936
+    second: sacha2_20
+  - first:
+      213: -1022184740864306651
+    second: sacha2_21
+  - first:
+      213: 8328619423584549108
+    second: sacha2_22
+  - first:
+      213: 451263120862163575
+    second: sacha2_23
+  - first:
+      213: 6780188713101694764
+    second: sacha2_24
+  - first:
+      213: -2112777384288861845
+    second: sacha2_25
+  - first:
+      213: 7243097256019583869
+    second: sacha2_26
+  - first:
+      213: 3257792457657965435
+    second: sacha2_27
+  - first:
+      213: -4389124084013051985
+    second: sacha2_28
+  - first:
+      213: 5118985031214600736
+    second: sacha2_29
+  - first:
+      213: 1431291778362931894
+    second: sacha2_30
+  - first:
+      213: -3210840501249895613
+    second: sacha2_31
+  - first:
+      213: -7047025165977866668
+    second: sacha2_32
+  - first:
+      213: -6029728278206355087
+    second: sacha2_33
+  - first:
+      213: -4768470678841573172
+    second: sacha2_34
+  - first:
+      213: -6724092366272827744
+    second: sacha2_35
+  - first:
+      213: 8591876596591155516
+    second: sacha2_36
+  - first:
+      213: 5481078494842533214
+    second: sacha2_37
+  - first:
+      213: 2848073894557458545
+    second: sacha2_38
+  - first:
+      213: 315614344214441626
+    second: sacha2_39
+  - first:
+      213: 7306011084431699462
+    second: sacha2_40
+  - first:
+      213: 168301829052783604
+    second: sacha2_41
+  - first:
+      213: -1862747371393785354
+    second: sacha2_42
+  - first:
+      213: -6048549176700702331
+    second: sacha2_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sacha2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 3024
+        height: 4032
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78398aba37f3c3429cf0f267f480cd9
+      internalID: 697788096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sacha2_1
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 0
+        width: 3024
+        height: 4032
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92b05685b728f14f85e806cc91a6955
+      internalID: 1531119601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a819a8f48bbbf5e47ac2af9616dd9a75
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sacha2_0: 697788096
+      sacha2_1: 1531119601
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
