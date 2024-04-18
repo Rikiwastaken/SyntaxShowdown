@@ -31,6 +31,10 @@ public class Maintitlemvt : MonoBehaviour
             if (transform.localPosition.x < 0)
             {
                 RB.velocity = new Vector2(speed, 0);
+                if(transform.localPosition.x < 0 && transform.localPosition.x >= -500 && !GameObject.Find("Swordsound").GetComponent<AudioSource>().isPlaying)
+                {
+                    GameObject.Find("Swordsound").GetComponent<AudioSource>().Play();
+                }
             }
             else
             {
