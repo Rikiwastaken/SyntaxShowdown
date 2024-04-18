@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Raynor_0: -4935107684633311326
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

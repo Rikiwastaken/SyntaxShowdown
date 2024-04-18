@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 250adef0877581d4dad1c03398d4c37c
+guid: 26f36f866e51dd54f99c8291b0b9490d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1400354801211899022
-    second: antechamber_0
+      213: -5977824548335550351
+    second: backgroundJudge_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: antechamber_0
+      name: backgroundJudge_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1792
-        height: 1024
+        width: 768
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -114,8 +114,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e8c7fb5b54f0f6310800000000000000
-      internalID: 1400354801211899022
+      spriteID: 17089d2ce308a0da0800000000000000
+      internalID: -5977824548335550351
       vertices: []
       indices: 
       edges: []
@@ -131,7 +131,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      antechamber_0: 1400354801211899022
+      backgroundJudge_0: -5977824548335550351
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

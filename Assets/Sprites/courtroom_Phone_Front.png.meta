@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      courtroom_Phone_Front_0: -7278262898719341187
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

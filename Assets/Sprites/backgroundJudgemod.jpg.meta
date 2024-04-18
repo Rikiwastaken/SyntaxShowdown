@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 250adef0877581d4dad1c03398d4c37c
+guid: 45e33890bcfd09243a4782cfa155f1d9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1400354801211899022
-    second: antechamber_0
+      213: 9117192510830454886
+    second: backgroundJudgemod_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: antechamber_0
+      name: backgroundJudgemod_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1792
-        height: 1024
+        width: 344
+        height: 269
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -114,8 +114,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e8c7fb5b54f0f6310800000000000000
-      internalID: 1400354801211899022
+      spriteID: 668a6ec9846c68e70800000000000000
+      internalID: 9117192510830454886
       vertices: []
       indices: 
       edges: []
@@ -123,7 +123,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -131,7 +131,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      antechamber_0: 1400354801211899022
+      backgroundJudgemod_0: 9117192510830454886
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
