@@ -67,14 +67,6 @@ public class MainConfig : MonoBehaviour
         }
     }
 
-    void FixedUpdate()
-    {
-        if (Input.GetKeyDown("escape"))
-        {
-            Application.Quit();
-        }
-    }
-
     public void UnlockAllCases()
     {
         caseprogression =2;
@@ -82,8 +74,8 @@ public class MainConfig : MonoBehaviour
 
     public void CaseOver()
     {
-        caseprogression += 1;
-        save[caseID] = new Case(4);
+        if (caseID == caseprogression)
+        {caseprogression += 1;}
     }
 
     public int SpeakerToWitnessConversion(int SpeakerID)
@@ -199,9 +191,9 @@ public class MainConfig : MonoBehaviour
         ]
         */
         //Nous allons donc load tout en verifiant que la sauvegarde n'est pas corrompue
-        if (File.Exists(Application.persistentDataPath + "data.json"))
+        if (File.Exists(Application.persistentDataPath + "/data.json"))
         {
-            StreamReader sr = new StreamReader(Application.persistentDataPath + "data.json");
+            StreamReader sr = new StreamReader(Application.persistentDataPath + "/data.json");
             string json = sr.ReadToEnd();
             int state = 0; // States: 0 Default, 1 SearchCP, 2 SearchVM, 3 SearchVS, 4 SearchL, 5 SearchC, 6 SearchV, 7 SearchCh, 8 SearchChs, 9 SearchEndC, 10 SearchSepC, 11 SearchEndDefault, 12 NoSearch, 13 SearchRes, 14 SearchFS
             List<float> temps = new List<float>();
@@ -409,9 +401,14 @@ public class MainConfig : MonoBehaviour
         
     }
 
+    public void ResetCurrentCaseSave()
+    {
+        this.save[this.caseID]=null;
+    }
+
     public void ShowCurrentProgessionInMenu()
     {
-        for (int i = 0; i<5 ;i++)
+        for (int i = 0; i<3 ;i++)
         {
             if (i>caseprogression)
             {

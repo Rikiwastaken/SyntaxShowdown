@@ -25,6 +25,9 @@ public class ErrorObject : MonoBehaviour
         GameObject.Find("SceneConfig").GetComponent<SceneConfig>().moveThatIsWrongText = true;
         waittingforanimation = true;
         GameObject.Find("Pageturnsound").GetComponent<AudioSource>().Play();
+        GameObject.Find("Swordsound").GetComponent<AudioSource>().Play();
+        voice();
+        
     }
 
     void loadnexttext()
@@ -45,5 +48,23 @@ public class ErrorObject : MonoBehaviour
         GameObject.Find("SceneConfig").GetComponent<SceneConfig>().changetext = true;
         GameObject.Find("SceneConfig").GetComponent<SceneConfig>().isdialogue = true;
         GameObject.Find("Texte").GetComponent<displaytext>().Initialisation(); //affiche le bon texte et le bon numero de page
+    }
+
+    private void voice()
+    {
+        int rd = UnityEngine.Random.Range(0, 2);
+        if(rd == 0)
+        {
+            GameObject.Find("stoprighttheresound").GetComponent<AudioSource>().Play();
+            
+        }
+        if(rd == 1)
+        {
+            GameObject.Find("thatswrongsound").GetComponent<AudioSource>().Play();
+        }
+        if (rd == 2)
+        {
+            GameObject.Find("waitsound").GetComponent<AudioSource>().Play();    
+        }
     }
 }

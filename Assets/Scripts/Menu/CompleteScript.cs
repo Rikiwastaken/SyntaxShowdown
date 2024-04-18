@@ -57,6 +57,25 @@ public class CompleteScript : MonoBehaviour
                     show = true;
                 }
             }
+            if (GameObject.Find("MainConfig").GetComponent<MainConfig>().caseID == 2)
+            {
+                if (witnessID == 4 && advlist[0] == 3)
+                {
+                    show = true;
+                }
+                if (witnessID == 5 && advlist[1] == 3)
+                {
+                    show = true;
+                }
+                if (witnessID == 6 && advlist[2] == 3)
+                {
+                    show = true;
+                }
+                if (witnessID == 7 && advlist[3] == 3)
+                {
+                    show = true;
+                }
+            }
         }
         else
         {
@@ -94,6 +113,25 @@ public class CompleteScript : MonoBehaviour
                     show = true;
                 }
                 if (witnessID == 7 && advlist[3] == 3)
+                {
+                    show = true;
+                }
+            }
+            if (GameObject.Find("MainConfig").GetComponent<MainConfig>().caseID == 2)
+            {
+                if (witnessID == 4 && advlist[0] == 2)
+                {
+                    show = true;
+                }
+                if (witnessID == 5 && advlist[1] == 3)
+                {
+                    show = true;
+                }
+                if (witnessID == 6 && advlist[2] == 2)
+                {
+                    show = true;
+                }
+                if (witnessID == 7 && advlist[3] == 2)
                 {
                     show = true;
                 }

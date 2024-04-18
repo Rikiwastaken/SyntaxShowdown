@@ -22,6 +22,10 @@ public class SpriteController : MonoBehaviour
         Anim.SetBool("thinking", false);
         Anim.SetBool("surprised", false);
         Anim.SetBool("determined", false);
+        Anim.SetBool("laughing", false);
+        Anim.SetBool("idea", false);
+        Anim.SetBool("showevidence", false);
+        Anim.SetBool("despair", false);
     }
 
     public void Thinking()
@@ -46,5 +50,25 @@ public class SpriteController : MonoBehaviour
     {
         Idle();
         Anim.SetBool("determined", true);
+    }
+    public void Laughing()
+    {
+        Idle();
+        Anim.SetBool("laughing", true);
+    }
+    public void Idea()
+    {
+        Idle();
+        Anim.SetBool("idea", true);
+    }
+    public void ShowEvidence()
+    {
+        Idle();
+        Anim.SetBool("showevidence", true);
+    }
+    public void Despair()
+    {
+        Idle();
+        Anim.SetBool("despair", true);
     }
 }

@@ -56,7 +56,6 @@ public class ThatisWrongdeplacement : MonoBehaviour
             {
                 slowvelcnt = 0;
                 RB.velocity = new Vector2(slowvel, 0);
-                GameObject.Find("thatiswrongsound").GetComponent<AudioSource>().Play();
                 
             }
             else if (slowvelcnt < slowvelduration)

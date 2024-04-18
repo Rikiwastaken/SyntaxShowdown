@@ -26,7 +26,8 @@ public class dialoguepagecgt : MonoBehaviour
             
              if (GameObject.Find("SceneConfig").GetComponent<SceneConfig>().gameover)
             {
-                //Ins�rer le code pour effacer la progression
+                GameObject.Find("SceneConfig").GetComponent<SceneConfig>().resetcase();
+                GameObject.Find("SceneConfig").GetComponent<SceneConfig>().save();
                 SceneManager.LoadScene("MainMenu");
             }
             else if (GameObject.Find("Texte").GetComponent<displaytext>().textdoc.name[3] == '5')
@@ -39,14 +40,16 @@ public class dialoguepagecgt : MonoBehaviour
                 }
                 else if(GameObject.Find("Texte").GetComponent<displaytext>().textdoc.name[5] != '1')
                 {
-                    GameObject.Find("MainConfig").GetComponent<MainConfig>().CaseOver();
+                    GameObject.Find("SceneConfig").GetComponent<SceneConfig>().resetcase();
+                    GameObject.Find("SceneConfig").GetComponent<SceneConfig>().save();
+                    GameObject.Find("SceneConfig").GetComponent<SceneConfig>().caseover();
                     SceneManager.LoadScene("MainMenu");
                 }
             }
             else
             {
                 GameObject.Find("SceneConfig").GetComponent<SceneConfig>().checkend();
-                if(!GameObject.Find("SceneConfig").GetComponent<SceneConfig>().casefinished)
+                if (!GameObject.Find("SceneConfig").GetComponent<SceneConfig>().casefinished)
                 {
                     GameObject.Find("SceneConfig").GetComponent<SceneConfig>().speakerID = GameObject.Find("SceneConfig").GetComponent<SceneConfig>().activedialoguespeaker;
                     GameObject.Find("SceneConfig").GetComponent<SceneConfig>().activewindow = 1;
@@ -79,6 +82,7 @@ public class dialoguepagecgt : MonoBehaviour
                     GameObject.Find("Texte").GetComponent<displaytext>().usetext = false;
                     GameObject.Find("Texte").GetComponent<displaytext>().readyusetext = false;
                     GameObject.Find("Texte").GetComponent<displaytext>().Initialisation(); //affiche le bon texte et le bon numero de page
+                    GameObject.Find("SceneConfig").GetComponent<SceneConfig>().save();
                 }
             }
         }

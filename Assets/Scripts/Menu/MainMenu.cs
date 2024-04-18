@@ -43,4 +43,9 @@ public class MainMenu : MonoBehaviour
         GameObject.Find("MainConfig").GetComponent<MainConfig>().CurrentHP=100;
     }
 
+    public void ToCredit()
+    {
+        SceneManager.LoadScene("CreditScene");
+    }
+
 }

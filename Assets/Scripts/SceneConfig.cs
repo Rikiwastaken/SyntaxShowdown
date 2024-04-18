@@ -97,6 +97,13 @@ public class SceneConfig : MonoBehaviour
 
     void FixedUpdate()
     {
+
+        if(GameObject.Find("MainConfig").GetComponent<MainConfig>().CurrentHP > 100)
+        {
+            GameObject.Find("MainConfig").GetComponent<MainConfig>().CurrentHP = 100;
+        }
+
+
         caseID = GameObject.Find("MainConfig").GetComponent<MainConfig>().caseID;
 
         if (Input.GetKeyDown("escape"))
@@ -208,6 +215,11 @@ public class SceneConfig : MonoBehaviour
         }
     }
 
+    public void wrongaccusechoice()
+    {
+        GameObject.Find("MainConfig").GetComponent<MainConfig>().CurrentHP -= 10;
+        GameObject.Find("badselectsound").GetComponent<AudioSource>().Play();
+    }
     public string getname(int speakerID)
     {
 
@@ -283,7 +295,7 @@ public class SceneConfig : MonoBehaviour
                 }
                 else if (speakerID == 5)
                 {
-                    Cname = "Lou Ker";
+                    Cname = "Boris Neigh";
                 }
                 else if (speakerID == 6)
                 {
@@ -316,6 +328,25 @@ public class SceneConfig : MonoBehaviour
     public void checkend()
     {
         bool end = true;
+        //if (GameObject.Find("MainConfig").GetComponent<MainConfig>().caseID == 2)
+        //{
+        //    if (GameObject.Find("MainConfig").GetComponent<MainConfig>().getWitnessProgression(4) != 3)
+        //    {
+        //        end = false;
+        //    }
+        //    if (GameObject.Find("MainConfig").GetComponent<MainConfig>().getWitnessProgression(5) != 4)
+        //    {
+        //        end = false;
+        //    }
+        //    if (GameObject.Find("MainConfig").GetComponent<MainConfig>().getWitnessProgression(6) != 3)
+        //    {
+        //        end = false;
+        //    }
+        //    if (GameObject.Find("MainConfig").GetComponent<MainConfig>().getWitnessProgression(7) != 3)
+        //    {
+        //        end = false;
+        //    }
+        //}
         if (GameObject.Find("MainConfig").GetComponent<MainConfig>().caseID == 1)
         {
             if (GameObject.Find("MainConfig").GetComponent<MainConfig>().getWitnessProgression(4) != 3)
@@ -354,7 +385,26 @@ public class SceneConfig : MonoBehaviour
                 end = false;
             }
         }
-        GameObject.Find("SceneConfig").GetComponent<SceneConfig>().casefinished = end;
+        if(GameObject.Find("MainConfig").GetComponent<MainConfig>().caseID == 2)
+        {
+            if (GameObject.Find("MainConfig").GetComponent<MainConfig>().getWitnessProgression(4) != 3)
+            {
+                end = false;
+            }
+            if (GameObject.Find("MainConfig").GetComponent<MainConfig>().getWitnessProgression(5) != 3)
+            {
+                end = false;
+            }
+            if (GameObject.Find("MainConfig").GetComponent<MainConfig>().getWitnessProgression(6) != 3)
+            {
+                end = false;
+            }
+            if (GameObject.Find("MainConfig").GetComponent<MainConfig>().getWitnessProgression(7) != 3)
+            {
+                end = false;
+            }
+        }
+        casefinished = end;
     }
 
     public void SetMainIntro(bool intro)
@@ -445,6 +495,22 @@ public class SceneConfig : MonoBehaviour
         }
         music = Music;
         return Music;
+    }
+
+    public void save()
+    {
+        GameObject.Find("MainConfig").GetComponent<MainConfig>().SaveJSON();
+        Debug.Log("Saved");
+    }
+
+    public void resetcase()
+    {
+        GameObject.Find("MainConfig").GetComponent<MainConfig>().ResetCurrentCaseSave();
+    }
+
+    public void caseover()
+    {
+         GameObject.Find("MainConfig").GetComponent<MainConfig>().CaseOver();
     }
 
 }

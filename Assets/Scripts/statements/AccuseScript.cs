@@ -32,6 +32,10 @@ public class AccuseScript : MonoBehaviour
         {
             isculprit = true;
         }
+        else if (GameObject.Find("MainConfig").GetComponent<MainConfig>().caseID == 2 && newspeakerID == 6)
+        {
+            isculprit = true;
+        }
         else
         {
             isculprit = false;
@@ -40,13 +44,18 @@ public class AccuseScript : MonoBehaviour
 
     public void Accuse()
     {
+        Debug.Log("Zola");
         if(isculprit)
         {
+            Debug.Log("Zola2");
             GuiltyCanvas.SetActive(false);
             LifebarCanvas.SetActive(false);
             GameObject.Find("SceneConfig").GetComponent<SceneConfig>().loadlastdialogue(2);
         }
-
+        else
+        {
+            GameObject.Find("SceneConfig").GetComponent<SceneConfig>().wrongaccusechoice();
+        }
     }
 
 }

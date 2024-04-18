@@ -37,7 +37,8 @@ public class PresentScript : MonoBehaviour
                 GameObject.Find("SceneConfig").GetComponent<SceneConfig>().isdialogue = true;
                 GameObject.Find("Texte").GetComponent<displaytext>().Initialisation(); //affiche le bon texte et le bon numero de page
                 GameObject.Find("StatementsCanvas").SetActive(false);
-                
+                GameObject.Find("SceneConfig").GetComponent<SceneConfig>().ChangeMusic(text.name[5], 1);
+
             }
             else if(GameObject.Find("SceneConfig").GetComponent<SceneConfig>().caseID != 0)
             {

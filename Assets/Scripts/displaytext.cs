@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.UIElements;
 
 public class displaytext : MonoBehaviour
@@ -35,6 +36,8 @@ public class displaytext : MonoBehaviour
     [Header("Background")]
     public int backgroundID;
 
+    public float animationspeed;
+
     class TrupleError
     {
         public int NumLigne;
@@ -56,6 +59,8 @@ public class displaytext : MonoBehaviour
 
     public void Initialisation()
     {
+        usetext=false;
+        readyusetext=false;
         GameObject.Find("SceneConfig").GetComponent<SceneConfig>().maxwindow = 0;
         fulltext = textdoc.text;
         textlength = fulltext.Length;
@@ -66,12 +71,12 @@ public class displaytext : MonoBehaviour
         }
         else
         {
-            Debug.Log(GameObject.Find("SceneConfig").GetComponent<SceneConfig>().speakerID);
             GameObject.Find("SceneConfig").GetComponent<SceneConfig>().speakerID = (int)Char.GetNumericValue(fulltext[0]);
             backgroundID = (int)Char.GetNumericValue(fulltext[1]);
         }
 
         ChangeBackground(backgroundID);
+        Debug.Log("SpeakerID : "+GameObject.Find("SceneConfig").GetComponent<SceneConfig>().speakerID);
         GameObject.Find("SceneConfig").GetComponent<SceneConfig>().ShowedCharacter = ChangeCharacter(GameObject.Find("SceneConfig").GetComponent<SceneConfig>().speakerID, GameObject.Find("SceneConfig").GetComponent<SceneConfig>().caseID);
 
         for (int i = 0; i < textlength; i++)
@@ -112,8 +117,11 @@ public class displaytext : MonoBehaviour
         }
         else
         {
+            GameObject.Find("SceneConfig").GetComponent<SceneConfig>().speakerID=4;
             asset = (TextAsset) Resources.Load(GameObject.Find("MainConfig").GetComponent<MainConfig>().GetCurrentWitnessFile());
             GameObject.Find("SceneConfig").GetComponent<SceneConfig>().isdialogue = false;
+            GameObject.Find("SceneConfig").GetComponent<SceneConfig>().ShowedCharacter = ChangeCharacter(4,CaseID);
+
         }
         GameObject.Find("SceneConfig").GetComponent<SceneConfig>().changetext = true;
         textdoc=asset;
@@ -127,13 +135,15 @@ public class displaytext : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-
+        GameObject.Find("SceneConfig").GetComponent<SceneConfig>().ShowedCharacter = ChangeCharacter(GameObject.Find("SceneConfig").GetComponent<SceneConfig>().speakerID, GameObject.Find("SceneConfig").GetComponent<SceneConfig>().caseID);
 
         activedialogue = GameObject.Find("SceneConfig").GetComponent<SceneConfig>().activewindow;
         changetext = GameObject.Find("SceneConfig").GetComponent<SceneConfig>().changetext;
 
         fulltext = textdoc.text;
         textlength = fulltext.Length;
+        usetext=false;
+        readyusetext=false;
         if (changetext)
         {
             not_real_character_counter = 0;
@@ -166,6 +176,7 @@ public class displaytext : MonoBehaviour
                     {
                         if (fulltext[i - 1] == '#')
                         {
+                            GameObject.Find("SceneConfig").GetComponent<SceneConfig>().ActiveImage = changeImage((int)Char.GetNumericValue(fulltext[i + 6]));
                             ChangeBackground((int)Char.GetNumericValue(fulltext[i + 1]));
                             GameObject.Find("SceneConfig").GetComponent<SceneConfig>().speakerID = (int)Char.GetNumericValue(fulltext[i + 2]);
                             GameObject.Find("SceneConfig").GetComponent<SceneConfig>().ShowedCharacter = ChangeCharacter(GameObject.Find("SceneConfig").GetComponent<SceneConfig>().speakerID, GameObject.Find("SceneConfig").GetComponent<SceneConfig>().caseID);
@@ -174,7 +185,6 @@ public class displaytext : MonoBehaviour
                                 ChangeAnimation(GameObject.Find("SceneConfig").GetComponent<SceneConfig>().ShowedCharacter, (int)Char.GetNumericValue(fulltext[i + 3]));
                             }
                             GameObject.Find("SceneConfig").GetComponent<SceneConfig>().ChangeMusic(fulltext[i + 4], (int)Char.GetNumericValue(fulltext[i + 5]));
-                            GameObject.Find("SceneConfig").GetComponent<SceneConfig>().ActiveImage = changeImage((int)Char.GetNumericValue(fulltext[i + 6]));
 
                         }
                     }
@@ -269,6 +279,12 @@ public class displaytext : MonoBehaviour
         if (ImageID == 4)
         {
             Image = GameObject.Find("BlackScreen");
+            UnityEngine.UI.Image Imagecp = Image.GetComponent<UnityEngine.UI.Image>();
+            Imagecp.color = new Color(Imagecp.color.r, Imagecp.color.g, Imagecp.color.b, 0.99f);
+        }
+        if (ImageID == 5)
+        {
+            Image = GameObject.Find("C2Picture");
         }
         return Image;
     }
@@ -285,22 +301,22 @@ public class displaytext : MonoBehaviour
         }
         if (SpeakerID == 0) //Dick Shionary
         {
-            Character = GameObject.Find("OldNoctis");
+            Character = GameObject.Find("DickShionary");
 
         }
         if (SpeakerID == 1) //Otto Graph
         {
-            Character = GameObject.Find("Raynor");
+            Character = GameObject.Find("OttoGraph");
 
         }
         if (SpeakerID == 2) //Prost Ecution
         {
-            Character = GameObject.Find("Blaidd");
+            Character = GameObject.Find("ProstEcution");
 
         }
         if (SpeakerID == 3) // Hillary Vocab
         {
-            Character = GameObject.Find("Naegi");
+            Character = GameObject.Find("HillaryVocab");
         }
         if(SpeakerID == 9)
         {
@@ -310,53 +326,53 @@ public class displaytext : MonoBehaviour
         {
             if (SpeakerID >= 4 && SpeakerID <=8) //Otto Graph
             {
-                Character = GameObject.Find("Raynor");
+                Character = GameObject.Find("OttoGraph");
             }
         }
         if (CaseID == 1)
         {
             if (SpeakerID == 4) //Evan Quished
             {
-                Character = GameObject.Find("pincolegoat2.0_0");
+                Character = GameObject.Find("EvanQuished");
             }
             if (SpeakerID == 5) //Li Jisto
             {
-                Character = GameObject.Find("RedMedic");
+                Character = GameObject.Find("LiJisto");
             }
             if (SpeakerID == 6) //Paul Hissman
             {
-                Character = GameObject.Find("Kurosawa");
+                Character = GameObject.Find("PaulHissman");
             }
             if (SpeakerID == 7) //Reed Hired
             {
-                Character = GameObject.Find("tortuegeniale");  
+                Character = GameObject.Find("ReedIred");  
             }
             if (SpeakerID == 8) //Bill Hard
             {
-                Character = GameObject.Find("Kiryu");
+                Character = GameObject.Find("BillHard");
             }
         }
         if (CaseID == 2)
         {
             if (SpeakerID == 4) //Richard Gold
             {
-                Character = GameObject.Find("Rufus");
+                Character = GameObject.Find("RichardGold");
             }
-            if (SpeakerID == 5) //Lou Ker
+            if (SpeakerID == 5) //Boris Neigh
             {
-                Character = GameObject.Find("RedMedic");
+                Character = GameObject.Find("BorisNeigh");
             }
             if (SpeakerID == 6) //Tess La
             {
-                Character = GameObject.Find("Kurosawa");
+                Character = GameObject.Find("TessLa");
             }
             if (SpeakerID == 7) //Paul Hissman
             {
-                Character = GameObject.Find("Kurosawa");
+                Character = GameObject.Find("PaulHissman");
             }
             if (SpeakerID == 8) //Richard Gold
             {
-                Character = GameObject.Find("Rufus");
+                Character = GameObject.Find("RichardGold");
             }
         }
 
@@ -392,7 +408,24 @@ public class displaytext : MonoBehaviour
             {
                 Character.GetComponent<SpriteController>().Thinking();
             }
+            if (AnimID == 5)
+            {
+                Character.GetComponent<SpriteController>().Laughing();
+            }
+            if (AnimID == 6)
+            {
+                Character.GetComponent<SpriteController>().Idea();
+            }
+            if (AnimID == 7)
+            {
+                Character.GetComponent<SpriteController>().ShowEvidence();
+            }
+            if (AnimID == 8)
+            {
+                Character.GetComponent<SpriteController>().Despair();
+            }
         }
+        Character.GetComponent<Animator>().speed = animationspeed;
     }
 
     private void ChangeBackground(int backgroundID)
