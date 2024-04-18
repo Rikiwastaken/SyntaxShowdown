@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: dd84b0ba4d2e00348b2b25bc71d26aef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7543084436381231849
+    second: alex2_0
+  - first:
+      213: -8670005640409255185
+    second: alex2_1
+  - first:
+      213: -2339953959918886073
+    second: alex2_2
+  - first:
+      213: -4044734841455226310
+    second: alex2_3
+  - first:
+      213: 3027147662952443255
+    second: alex2_4
+  - first:
+      213: 6998984501547272658
+    second: alex2_5
+  - first:
+      213: -8593822106105082085
+    second: alex2_6
+  - first:
+      213: -2396965081265188619
+    second: alex2_7
+  - first:
+      213: 7935133579848450974
+    second: alex2_8
+  - first:
+      213: 5161146489460909775
+    second: alex2_9
+  - first:
+      213: -499872601974072494
+    second: alex2_10
+  - first:
+      213: -2368992125996467448
+    second: alex2_11
+  - first:
+      213: -382861132613149112
+    second: alex2_12
+  - first:
+      213: -7743108537377419959
+    second: alex2_13
+  - first:
+      213: 3010825268619223645
+    second: alex2_14
+  - first:
+      213: 8705016735379620669
+    second: alex2_15
+  - first:
+      213: -3728429700625587185
+    second: alex2_16
+  - first:
+      213: -609072304315787082
+    second: alex2_17
+  - first:
+      213: 8681409355852703575
+    second: alex2_18
+  - first:
+      213: 4521674062606028390
+    second: alex2_19
+  - first:
+      213: 659599155081741517
+    second: alex2_20
+  - first:
+      213: -5097369008881138553
+    second: alex2_21
+  - first:
+      213: 5980007274220412536
+    second: alex2_22
+  - first:
+      213: -7431810725971895174
+    second: alex2_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: alex2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 4555
+        height: 3864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2727c4019af6442458134c560111d3be
+      internalID: 959378186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alex2_1
+      rect:
+        serializedVersion: 2
+        x: 4555
+        y: 0
+        width: 4555
+        height: 3864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275e2b526ee92a24a9df3370d6730c0f
+      internalID: 59819011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5c47585a7f6708040a5bbe668ffe337b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      alex2_0: 959378186
+      alex2_1: 59819011
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
